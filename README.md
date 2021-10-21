@@ -1,4 +1,4 @@
-![Pertia Logo](assests/pertia-logos.jpeg)
+<img src="pertia-logos.jpeg" width=350>
 
 ### Have a Dream Job?
 What's the secret sauce? What skills might need to be on your resume to make it past the automated screening? Ever wonder what it takes to land that dream job in your area? A spin on the Latin word "peritia", meaning expertise, experience, knowledge, ability, mastery. [Pertia.info](https://pertia.info) can help identify what skills you will need to master, to secure that coveted poisition.
